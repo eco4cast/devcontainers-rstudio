@@ -1,6 +1,7 @@
 # R version: 4, 4.1, 4.0
-ARG VARIANT="4.2"
-FROM rocker/geospatial:${VARIANT}
+#ARG VARIANT="4.2"
+#FROM rocker/geospatial:${VARIANT}
+FROM eco4cast/rocker-neon4cast
 # Includes packages: devtools tidyverse tidymodels glmnet randomForest xgboost 
 
 # Use the [Option] comment to specify true/false arguments that should appear in VS Code UX
