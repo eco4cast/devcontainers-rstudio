@@ -1,19 +1,11 @@
 # Zero-setup R workshops with GitHub Codespaces
 
-This is the repository supporting the presentation "Zero-setup R workshops with GitHub Codespaces".
-
-* Presenter: [David Smith](https://www.linkedin.com/in/dmsmith/), Cloud Advocate at Microsoft
-* Presented at: [rstudio::conf, July 28 2022](https://rstudioconf2022.sched.com/event/11iag/zero-setup-r-workshops-with-github-codespaces) 
-* Presentation slides: [PDF](ZeroSetupWorkshopsRStudioConf2022.pdf)
-* Presentation video: [YouTube](https://www.youtube.com/watch?v=2uXLikk30Ew) | [RStudio](https://www.rstudio.com/conference/2022/talks/zero-setup-r-workshops-github/)
-
-You can recreate the demos in the talk using the steps outlined below.
 
 ## Dev Containers in GitHub Codepaces
 
 If you have access to GitHub CodeSpaces, click the green "<> Code" button at the top right on this repository page, and then select "Create codespace on main". (GitHub CodeSpaces is available with [GitHub Enterprise](https://github.com/enterprise) and [GitHub Education](https://education.github.com/).)
 
-Now, browse to the file [explore-analyze-data-with-R/solution/challenge-Data_Exploration.ipynb](explore-analyze-data-with-R/solution/challenge-Data_Exploration.ipynb). Work through the Jupyter Notebook.
+![image](https://user-images.githubusercontent.com/222586/188704795-934126cc-673d-4cf3-9ba2-0abdb6ee5780.png)
 
 To open RStudio Server, click the Forwarded Ports "Radio" icon at the bottom of the VS Code Online window.
 
